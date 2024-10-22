@@ -1,0 +1,11 @@
+C:\Users\I7243\source\repos\NunitCalculator\bin\Debug\net8.0\NunitCalculator.deps.json
+C:\Users\I7243\source\repos\NunitCalculator\bin\Debug\net8.0\NunitCalculator.dll
+C:\Users\I7243\source\repos\NunitCalculator\bin\Debug\net8.0\NunitCalculator.pdb
+C:\Users\I7243\source\repos\NunitCalculator\obj\Debug\net8.0\NunitCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\I7243\source\repos\NunitCalculator\obj\Debug\net8.0\NunitCalculator.AssemblyInfoInputs.cache
+C:\Users\I7243\source\repos\NunitCalculator\obj\Debug\net8.0\NunitCalculator.AssemblyInfo.cs
+C:\Users\I7243\source\repos\NunitCalculator\obj\Debug\net8.0\NunitCalculator.csproj.CoreCompileInputs.cache
+C:\Users\I7243\source\repos\NunitCalculator\obj\Debug\net8.0\NunitCalculator.dll
+C:\Users\I7243\source\repos\NunitCalculator\obj\Debug\net8.0\refint\NunitCalculator.dll
+C:\Users\I7243\source\repos\NunitCalculator\obj\Debug\net8.0\NunitCalculator.pdb
+C:\Users\I7243\source\repos\NunitCalculator\obj\Debug\net8.0\ref\NunitCalculator.dll

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "zgImGcuCcd4=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\I7243\\source\\repos\\TestExecutable\\TestExecutable.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\I7243\\.nuget\\packages\\nunit\\4.2.2\\nunit.4.2.2.nupkg.sha512",
+    "C:\\Users\\I7243\\.nuget\\packages\\selenium.webdriver\\4.25.0\\selenium.webdriver.4.25.0.nupkg.sha512"
+  ],
+  "logs": []
+}
