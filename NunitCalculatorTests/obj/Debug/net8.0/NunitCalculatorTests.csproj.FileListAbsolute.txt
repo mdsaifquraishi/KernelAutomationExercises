@@ -99,3 +99,4 @@ C:\Users\I7243\source\repos\NunitCalculatorTests\obj\Debug\net8.0\refint\NunitCa
 C:\Users\I7243\source\repos\NunitCalculatorTests\obj\Debug\net8.0\NunitCalculatorTests.pdb
 C:\Users\I7243\source\repos\NunitCalculatorTests\obj\Debug\net8.0\NunitCalculatorTests.genruntimeconfig.cache
 C:\Users\I7243\source\repos\NunitCalculatorTests\obj\Debug\net8.0\ref\NunitCalculatorTests.dll
+C:\Users\I7243\source\repos\NunitCalculatorTests\obj\Debug\net8.0\NunitCalculatorTests.sourcelink.json

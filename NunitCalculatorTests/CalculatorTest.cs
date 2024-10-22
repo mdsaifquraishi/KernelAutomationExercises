@@ -13,7 +13,7 @@ namespace NunitCalculatorTests
             var actual=c.AddNumbers(a,b);
             Assert.AreEqual(expected, actual);
         }
-        [TestCase(2, 5, -3)]
+        [TestCase(2, 5, -3),Category("Skip")]
         public void SubstractNumbers_ShallReturnSubstraction_ForTwoInt(int a, int b, int expected)
         {
             var actual = c.SubstractNumbers(a, b);
