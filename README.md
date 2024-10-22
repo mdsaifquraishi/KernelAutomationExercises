@@ -1,1 +1,1 @@
-Main Executable "Program.cs" file for KafOnboardingExercise is in Executable folder.
+Main Executable "Program.cs" file for KafOnboardingExercise is in TestExecutable folder.
